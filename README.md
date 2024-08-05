@@ -2,6 +2,29 @@
 
 This repository contains the computer network design for Pulchowk Campus, created using Cisco Packet Tracer. The design divides the campus network into four areas, including various departments, hostel blocks, quarters, and servers, ensuring robust communication, security, and efficient routing across different sections.
 
+## Table of Contents
+
+- [Network Overview](#network-overview)
+  - [Network Components](#network-components)
+  - [Key Features](#key-features)
+- [Network Topology](#network-topology)
+  - [Area 0 - Backbone](#area-0---backbone)
+  - [Area 1](#area-1)
+  - [Area 2](#area-2)
+  - [Area 3](#area-3)
+  - [ISP Network](#isp-network)
+- [Server Details](#server-details)
+  - [Internal Servers](#internal-servers)
+  - [ISP Servers](#isp-servers)
+- [Network Security](#network-security)
+- [IP Addressing and Subnetting](#ip-addressing-and-subnetting)
+  - [Area IP Details](#area-ip-details)
+- [Remark](#remark)
+- [Packet Tracer File](#packet-tracer-file)
+- [Network Images and Demo Video](#network-images-and-demo-video)
+  - [Demo Video](#demo-video)
+  - [Images](#images)
+
 ## Network Overview
 
 ### Network Components
@@ -73,7 +96,7 @@ This repository contains the computer network design for Pulchowk Campus, create
 - **ISP Router Networks:** `128.129.0.0/30` (DNS Server) and `128.129.0.4/30` (Web Server)
 - **Complete IP details in PDF**
 
-## Remarks
+## Remark
 
 This network design for Pulchowk Campus may not be fully reflective of the actual Pulchowk network, but it demonstrates how large-scale networks can be effectively designed and implemented in the real world.
 
@@ -84,12 +107,17 @@ The complete network design with all configurations is available in the Packet T
 ## Network Images and Demo Video
 
 ### Demo Video
-![video](https://github.com/user-attachments/assets/4556b053-488d-4665-a3ee-4471aad7e8f4)
+![Demo Video](https://github.com/user-attachments/assets/4556b053-488d-4665-a3ee-4471aad7e8f4)
 
 ### Images
-![image](https://github.com/user-attachments/assets/759219be-e793-4f45-89ee-75576aa887c6)
-![image](https://github.com/user-attachments/assets/7509e079-2a40-45ea-9c36-efee605984e6)
-![image](https://github.com/user-attachments/assets/6f69cdc9-cf72-412a-a165-bed47951881e)
+- **Network Topology**
+  ![Network Topology](https://github.com/user-attachments/assets/759219be-e793-4f45-89ee-75576aa887c6)
+
+- **Web Server Call**
+  ![Web Server Call](https://github.com/user-attachments/assets/7509e079-2a40-45ea-9c36-efee605984e6)
+
+- **Passing Traffic to ISP**
+  ![Passing Traffic to ISP](https://github.com/user-attachments/assets/6f69cdc9-cf72-412a-a165-bed47951881e)
 
 ---
 
