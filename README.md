@@ -107,7 +107,7 @@ The complete network design with all configurations is available in the Packet T
 ## Network Images and Demo Video
 
 ### Demo Video
-![Demo Video](https://github.com/user-attachments/assets/4556b053-488d-4665-a3ee-4471aad7e8f4)
+[Click here to watch the demo video](https://github.com/user-attachments/assets/4556b053-488d-4665-a3ee-4471aad7e8f4)
 
 ### Images
 - **Network Topology**
