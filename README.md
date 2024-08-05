@@ -71,20 +71,25 @@ This repository contains the computer network design for Pulchowk Campus, create
 - **Area 0:** `128.128.12.0/23` (Includes Library, Canteen)
 - **Inter-Area Router Networks:** `128.128.14.0/23`
 - **ISP Router Networks:** `128.129.0.0/30` (DNS Server) and `128.129.0.4/30` (Web Server)
+- **Complete IP details in PDF**
 
+## Remarks
 
- This network design for Pulchowk Campus may not be fully reflective of the actual Pulchowk network but it demonstrates 
- how large-scale networks can be effectively designed and implemented in the real world.
+This network design for Pulchowk Campus may not be fully reflective of the actual Pulchowk network, but it demonstrates how large-scale networks can be effectively designed and implemented in the real world.
+
 ## Packet Tracer File
 
 The complete network design with all configurations is available in the Packet Tracer file included in this repository.
 
-## Network Images
+## Network Images and Demo Video
 
+### Demo Video
+![video](https://github.com/user-attachments/assets/4556b053-488d-4665-a3ee-4471aad7e8f4)
 
-Example:
-
-![Network Topology](images/network_topology.png)
+### Images
+![image](https://github.com/user-attachments/assets/759219be-e793-4f45-89ee-75576aa887c6)
+![image](https://github.com/user-attachments/assets/7509e079-2a40-45ea-9c36-efee605984e6)
+![image](https://github.com/user-attachments/assets/6f69cdc9-cf72-412a-a165-bed47951881e)
 
 ---
 
